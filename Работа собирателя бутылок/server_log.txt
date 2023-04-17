@@ -1,0 +1,4588 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:12] filterscripts = ""  (string)
+[23:59:12] 
+[23:59:12] Server Plugins
+[23:59:12] --------------
+[23:59:12]  Loading plugin: pawncmd
+[23:59:12] [Pawn.CMD] plugin v3.4.0 loading...
+[23:59:12] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[23:59:12]   Loaded.
+[23:59:12]  Loading plugin: sscanf
+[23:59:12] 
+
+[23:59:12]  ===============================
+
+[23:59:12]       sscanf plugin loaded.     
+
+[23:59:12]          Version:  2.8.3        
+
+[23:59:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:59:12]  ===============================
+
+[23:59:12]   Loaded.
+[23:59:12]  Loading plugin: cef
+[23:59:12] CEF plugin is successful loaded.
+[23:59:12]   Loaded.
+[23:59:12]  Loaded 3 plugins.
+
+[23:59:12] 
+[23:59:12] Filterscripts
+[23:59:12] ---------------
+[23:59:12]   Loaded 0 filterscripts.
+
+[23:59:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:18] filterscripts = ""  (string)
+[23:59:18] 
+[23:59:18] Server Plugins
+[23:59:18] --------------
+[23:59:18]  Loading plugin: pawncmd
+[23:59:18] [Pawn.CMD] plugin v3.4.0 loading...
+[23:59:18] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[23:59:18]   Loaded.
+[23:59:18]  Loading plugin: sscanf
+[23:59:18] 
+
+[23:59:18]  ===============================
+
+[23:59:18]       sscanf plugin loaded.     
+
+[23:59:18]          Version:  2.8.3        
+
+[23:59:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:59:18]  ===============================
+
+[23:59:18]   Loaded.
+[23:59:18]  Loading plugin: cef
+[23:59:18] CEF plugin is successful loaded.
+[23:59:18]   Loaded.
+[23:59:18]  Loaded 3 plugins.
+
+[23:59:18] 
+[23:59:18] Filterscripts
+[23:59:18] ---------------
+[23:59:18]   Loaded 0 filterscripts.
+
+[23:59:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:54] filterscripts = ""  (string)
+[00:00:54] 
+[00:00:54] Server Plugins
+[00:00:54] --------------
+[00:00:54]  Loading plugin: pawncmd
+[00:00:54] [Pawn.CMD] plugin v3.4.0 loading...
+[00:00:54] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:00:54]   Loaded.
+[00:00:54]  Loading plugin: sscanf
+[00:00:54] 
+
+[00:00:54]  ===============================
+
+[00:00:54]       sscanf plugin loaded.     
+
+[00:00:54]          Version:  2.8.3        
+
+[00:00:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:00:54]  ===============================
+
+[00:00:54]   Loaded.
+[00:00:54]  Loading plugin: cef
+[00:00:54] CEF plugin is successful loaded.
+[00:00:54]   Loaded.
+[00:00:54]  Loaded 3 plugins.
+
+[00:00:54] 
+[00:00:54] Filterscripts
+[00:00:54] ---------------
+[00:00:54]   Loaded 0 filterscripts.
+
+[00:00:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:06] filterscripts = ""  (string)
+[00:01:06] 
+[00:01:06] Server Plugins
+[00:01:06] --------------
+[00:01:06]  Loading plugin: pawncmd
+[00:01:06] [Pawn.CMD] plugin v3.4.0 loading...
+[00:01:06] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:01:06]   Loaded.
+[00:01:06]  Loading plugin: sscanf
+[00:01:06] 
+
+[00:01:06]  ===============================
+
+[00:01:06]       sscanf plugin loaded.     
+
+[00:01:06]          Version:  2.8.3        
+
+[00:01:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:01:06]  ===============================
+
+[00:01:06]   Loaded.
+[00:01:06]  Loading plugin: cef
+[00:01:06] CEF plugin is successful loaded.
+[00:01:06]   Loaded.
+[00:01:06]  Loaded 3 plugins.
+
+[00:01:06] 
+[00:01:06] Filterscripts
+[00:01:06] ---------------
+[00:01:06]   Loaded 0 filterscripts.
+
+[00:01:06] Number of vehicle models: 0
+[00:01:08] [connection] 127.0.0.1:38441 requests connection cookie.
+[00:01:08] [connection] incoming connection: 127.0.0.1:38441 id: 0
+[00:01:08] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:02:25] filterscripts = ""  (string)
+[00:02:25] 
+[00:02:25] Server Plugins
+[00:02:25] --------------
+[00:02:25]  Loading plugin: pawncmd
+[00:02:25] [Pawn.CMD] plugin v3.4.0 loading...
+[00:02:25] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:02:25]   Loaded.
+[00:02:25]  Loading plugin: sscanf
+[00:02:25] 
+
+[00:02:25]  ===============================
+
+[00:02:25]       sscanf plugin loaded.     
+
+[00:02:25]          Version:  2.8.3        
+
+[00:02:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:02:25]  ===============================
+
+[00:02:25]   Loaded.
+[00:02:25]  Loading plugin: cef
+[00:02:25] CEF plugin is successful loaded.
+[00:02:25]   Loaded.
+[00:02:25]  Loaded 3 plugins.
+
+[00:02:26] 
+[00:02:26] Filterscripts
+[00:02:26] ---------------
+[00:02:26]   Loaded 0 filterscripts.
+
+[00:02:26] Number of vehicle models: 0
+[00:02:27] [connection] 127.0.0.1:40650 requests connection cookie.
+[00:02:28] [connection] incoming connection: 127.0.0.1:40650 id: 0
+[00:02:28] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:13:48] filterscripts = ""  (string)
+[00:13:48] 
+[00:13:48] Server Plugins
+[00:13:48] --------------
+[00:13:48]  Loading plugin: pawncmd
+[00:13:48] [Pawn.CMD] plugin v3.4.0 loading...
+[00:13:48] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:13:48]   Loaded.
+[00:13:48]  Loading plugin: sscanf
+[00:13:48] 
+
+[00:13:48]  ===============================
+
+[00:13:48]       sscanf plugin loaded.     
+
+[00:13:48]          Version:  2.8.3        
+
+[00:13:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:13:48]  ===============================
+
+[00:13:48]   Loaded.
+[00:13:48]  Loading plugin: cef
+[00:13:48] CEF plugin is successful loaded.
+[00:13:48]   Loaded.
+[00:13:48]  Loaded 3 plugins.
+
+[00:13:48] 
+[00:13:48] Filterscripts
+[00:13:48] ---------------
+[00:13:48]   Loaded 0 filterscripts.
+
+[00:13:48] Number of vehicle models: 0
+[00:13:50] [connection] 127.0.0.1:39890 requests connection cookie.
+[00:13:50] [connection] incoming connection: 127.0.0.1:39890 id: 0
+[00:13:50] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:10] filterscripts = ""  (string)
+[00:14:10] 
+[00:14:10] Server Plugins
+[00:14:10] --------------
+[00:14:10]  Loading plugin: pawncmd
+[00:14:10] [Pawn.CMD] plugin v3.4.0 loading...
+[00:14:10] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:14:10]   Loaded.
+[00:14:10]  Loading plugin: sscanf
+[00:14:10] 
+
+[00:14:10]  ===============================
+
+[00:14:10]       sscanf plugin loaded.     
+
+[00:14:10]          Version:  2.8.3        
+
+[00:14:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:14:10]  ===============================
+
+[00:14:10]   Loaded.
+[00:14:10]  Loading plugin: cef
+[00:14:10] CEF plugin is successful loaded.
+[00:14:10]   Loaded.
+[00:14:10]  Loaded 3 plugins.
+
+[00:14:10] 
+[00:14:10] Filterscripts
+[00:14:10] ---------------
+[00:14:10]   Loaded 0 filterscripts.
+
+[00:14:10] Number of vehicle models: 0
+[00:14:12] [connection] 127.0.0.1:38978 requests connection cookie.
+[00:14:13] [connection] incoming connection: 127.0.0.1:38978 id: 0
+[00:14:13] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:14:18] [part] Vitaly_Borins has left the server (0:1)
+[00:14:18] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:14:20] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:14:33] [connection] 127.0.0.1:38149 requests connection cookie.
+[00:14:33] [connection] incoming connection: 127.0.0.1:38149 id: 0
+[00:14:33] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:48] filterscripts = ""  (string)
+[00:14:48] 
+[00:14:48] Server Plugins
+[00:14:48] --------------
+[00:14:48]  Loading plugin: pawncmd
+[00:14:48] [Pawn.CMD] plugin v3.4.0 loading...
+[00:14:48] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:14:48]   Loaded.
+[00:14:48]  Loading plugin: sscanf
+[00:14:48] 
+
+[00:14:48]  ===============================
+
+[00:14:48]       sscanf plugin loaded.     
+
+[00:14:48]          Version:  2.8.3        
+
+[00:14:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:14:48]  ===============================
+
+[00:14:48]   Loaded.
+[00:14:48]  Loading plugin: cef
+[00:14:48] CEF plugin is successful loaded.
+[00:14:48]   Loaded.
+[00:14:48]  Loaded 3 plugins.
+
+[00:14:48] 
+[00:14:48] Filterscripts
+[00:14:48] ---------------
+[00:14:48]   Loaded 0 filterscripts.
+
+[00:14:48] Number of vehicle models: 0
+[00:14:50] [connection] 127.0.0.1:38867 requests connection cookie.
+[00:14:50] [connection] incoming connection: 127.0.0.1:38867 id: 0
+[00:14:51] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:08] filterscripts = ""  (string)
+[00:15:08] 
+[00:15:08] Server Plugins
+[00:15:08] --------------
+[00:15:08]  Loading plugin: pawncmd
+[00:15:08] [Pawn.CMD] plugin v3.4.0 loading...
+[00:15:08] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:15:08]   Loaded.
+[00:15:08]  Loading plugin: sscanf
+[00:15:08] 
+
+[00:15:08]  ===============================
+
+[00:15:08]       sscanf plugin loaded.     
+
+[00:15:08]          Version:  2.8.3        
+
+[00:15:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:15:08]  ===============================
+
+[00:15:08]   Loaded.
+[00:15:08]  Loading plugin: cef
+[00:15:08] CEF plugin is successful loaded.
+[00:15:08]   Loaded.
+[00:15:08]  Loaded 3 plugins.
+
+[00:15:08] 
+[00:15:08] Filterscripts
+[00:15:08] ---------------
+[00:15:08]   Loaded 0 filterscripts.
+
+[00:15:08] Number of vehicle models: 0
+[00:15:10] [connection] 127.0.0.1:41869 requests connection cookie.
+[00:15:10] [connection] incoming connection: 127.0.0.1:41869 id: 0
+[00:15:11] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:19] filterscripts = ""  (string)
+[00:17:19] 
+[00:17:19] Server Plugins
+[00:17:19] --------------
+[00:17:19]  Loading plugin: pawncmd
+[00:17:19] [Pawn.CMD] plugin v3.4.0 loading...
+[00:17:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:17:19]   Loaded.
+[00:17:19]  Loading plugin: sscanf
+[00:17:19] 
+
+[00:17:19]  ===============================
+
+[00:17:19]       sscanf plugin loaded.     
+
+[00:17:19]          Version:  2.8.3        
+
+[00:17:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:17:19]  ===============================
+
+[00:17:19]   Loaded.
+[00:17:19]  Loading plugin: cef
+[00:17:19] CEF plugin is successful loaded.
+[00:17:19]   Loaded.
+[00:17:19]  Loaded 3 plugins.
+
+[00:17:19] 
+[00:17:19] Filterscripts
+[00:17:19] ---------------
+[00:17:19]   Loaded 0 filterscripts.
+
+[00:17:19] Number of vehicle models: 0
+[00:17:23] [connection] 127.0.0.1:39422 requests connection cookie.
+[00:17:23] [connection] incoming connection: 127.0.0.1:39422 id: 0
+[00:17:23] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:17:32] [part] Vitaly_Borins has left the server (0:1)
+[00:17:32] [connection] 127.0.0.1:40300 requests connection cookie.
+[00:17:32] [connection] incoming connection: 127.0.0.1:40300 id: 0
+[00:17:33] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:17:33] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:17:35] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:52] filterscripts = ""  (string)
+[00:17:52] 
+[00:17:52] Server Plugins
+[00:17:52] --------------
+[00:17:52]  Loading plugin: pawncmd
+[00:17:52] [Pawn.CMD] plugin v3.4.0 loading...
+[00:17:52] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:17:52]   Loaded.
+[00:17:52]  Loading plugin: sscanf
+[00:17:52] 
+
+[00:17:52]  ===============================
+
+[00:17:52]       sscanf plugin loaded.     
+
+[00:17:52]          Version:  2.8.3        
+
+[00:17:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:17:52]  ===============================
+
+[00:17:52]   Loaded.
+[00:17:52]  Loading plugin: cef
+[00:17:52] CEF plugin is successful loaded.
+[00:17:52]   Loaded.
+[00:17:52]  Loaded 3 plugins.
+
+[00:17:52] 
+[00:17:52] Filterscripts
+[00:17:52] ---------------
+[00:17:52]   Loaded 0 filterscripts.
+
+[00:17:52] Number of vehicle models: 0
+[00:17:54] [connection] 127.0.0.1:41293 requests connection cookie.
+[00:17:54] [connection] incoming connection: 127.0.0.1:41293 id: 0
+[00:17:54] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:15] filterscripts = ""  (string)
+[00:18:15] 
+[00:18:15] Server Plugins
+[00:18:15] --------------
+[00:18:15]  Loading plugin: pawncmd
+[00:18:15] [Pawn.CMD] plugin v3.4.0 loading...
+[00:18:15] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:18:15]   Loaded.
+[00:18:15]  Loading plugin: sscanf
+[00:18:15] 
+
+[00:18:15]  ===============================
+
+[00:18:15]       sscanf plugin loaded.     
+
+[00:18:15]          Version:  2.8.3        
+
+[00:18:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:18:15]  ===============================
+
+[00:18:15]   Loaded.
+[00:18:15]  Loading plugin: cef
+[00:18:15] CEF plugin is successful loaded.
+[00:18:15]   Loaded.
+[00:18:15]  Loaded 3 plugins.
+
+[00:18:15] 
+[00:18:15] Filterscripts
+[00:18:15] ---------------
+[00:18:15]   Loaded 0 filterscripts.
+
+[00:18:15] Number of vehicle models: 0
+[00:18:16] [connection] 127.0.0.1:40673 requests connection cookie.
+[00:18:16] [connection] incoming connection: 127.0.0.1:40673 id: 0
+[00:18:17] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:22:44] filterscripts = ""  (string)
+[00:22:44] 
+[00:22:44] Server Plugins
+[00:22:44] --------------
+[00:22:44]  Loading plugin: pawncmd
+[00:22:44] [Pawn.CMD] plugin v3.4.0 loading...
+[00:22:44] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:22:44]   Loaded.
+[00:22:44]  Loading plugin: sscanf
+[00:22:44] 
+
+[00:22:44]  ===============================
+
+[00:22:44]       sscanf plugin loaded.     
+
+[00:22:44]          Version:  2.8.3        
+
+[00:22:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:22:44]  ===============================
+
+[00:22:44]   Loaded.
+[00:22:44]  Loading plugin: cef
+[00:22:44] CEF plugin is successful loaded.
+[00:22:44]   Loaded.
+[00:22:44]  Loaded 3 plugins.
+
+[00:22:44] 
+[00:22:44] Filterscripts
+[00:22:44] ---------------
+[00:22:44]   Loaded 0 filterscripts.
+
+[00:22:44] Number of vehicle models: 0
+[00:22:46] [connection] 127.0.0.1:41252 requests connection cookie.
+[00:22:47] [connection] incoming connection: 127.0.0.1:41252 id: 0
+[00:22:47] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:23:19] filterscripts = ""  (string)
+[00:23:19] 
+[00:23:19] Server Plugins
+[00:23:19] --------------
+[00:23:19]  Loading plugin: pawncmd
+[00:23:19] [Pawn.CMD] plugin v3.4.0 loading...
+[00:23:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:23:19]   Loaded.
+[00:23:19]  Loading plugin: sscanf
+[00:23:19] 
+
+[00:23:19]  ===============================
+
+[00:23:19]       sscanf plugin loaded.     
+
+[00:23:19]          Version:  2.8.3        
+
+[00:23:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:23:19]  ===============================
+
+[00:23:19]   Loaded.
+[00:23:19]  Loading plugin: cef
+[00:23:19] CEF plugin is successful loaded.
+[00:23:19]   Loaded.
+[00:23:19]  Loaded 3 plugins.
+
+[00:23:19] 
+[00:23:19] Filterscripts
+[00:23:19] ---------------
+[00:23:19]   Loaded 0 filterscripts.
+
+[00:23:19] Number of vehicle models: 0
+[00:23:22] [connection] 127.0.0.1:40362 requests connection cookie.
+[00:23:22] [connection] incoming connection: 127.0.0.1:40362 id: 0
+[00:23:22] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:24:04] filterscripts = ""  (string)
+[00:24:04] 
+[00:24:04] Server Plugins
+[00:24:04] --------------
+[00:24:04]  Loading plugin: pawncmd
+[00:24:04] [Pawn.CMD] plugin v3.4.0 loading...
+[00:24:04] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:24:04]   Loaded.
+[00:24:04]  Loading plugin: sscanf
+[00:24:04] 
+
+[00:24:04]  ===============================
+
+[00:24:04]       sscanf plugin loaded.     
+
+[00:24:04]          Version:  2.8.3        
+
+[00:24:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:24:04]  ===============================
+
+[00:24:04]   Loaded.
+[00:24:04]  Loading plugin: cef
+[00:24:04] CEF plugin is successful loaded.
+[00:24:04]   Loaded.
+[00:24:04]  Loaded 3 plugins.
+
+[00:24:04] 
+[00:24:04] Filterscripts
+[00:24:04] ---------------
+[00:24:04]   Loaded 0 filterscripts.
+
+[00:24:04] Number of vehicle models: 0
+[00:24:06] [connection] 127.0.0.1:40109 requests connection cookie.
+[00:24:07] [connection] incoming connection: 127.0.0.1:40109 id: 0
+[00:24:07] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:25:02] filterscripts = ""  (string)
+[00:25:02] 
+[00:25:02] Server Plugins
+[00:25:02] --------------
+[00:25:02]  Loading plugin: pawncmd
+[00:25:02] [Pawn.CMD] plugin v3.4.0 loading...
+[00:25:02] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:25:02]   Loaded.
+[00:25:02]  Loading plugin: sscanf
+[00:25:02] 
+
+[00:25:02]  ===============================
+
+[00:25:02]       sscanf plugin loaded.     
+
+[00:25:02]          Version:  2.8.3        
+
+[00:25:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:25:02]  ===============================
+
+[00:25:02]   Loaded.
+[00:25:02]  Loading plugin: cef
+[00:25:02] CEF plugin is successful loaded.
+[00:25:02]   Loaded.
+[00:25:02]  Loaded 3 plugins.
+
+[00:25:02] 
+[00:25:02] Filterscripts
+[00:25:02] ---------------
+[00:25:02]   Loaded 0 filterscripts.
+
+[00:25:02] Number of vehicle models: 0
+[00:25:04] [connection] 127.0.0.1:41124 requests connection cookie.
+[00:25:04] [connection] incoming connection: 127.0.0.1:41124 id: 0
+[00:25:04] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:25:21] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:25:23] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:25:39] [part] Vitaly_Borins has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:41] filterscripts = ""  (string)
+[00:27:41] 
+[00:27:41] Server Plugins
+[00:27:41] --------------
+[00:27:41]  Loading plugin: pawncmd
+[00:27:41] [Pawn.CMD] plugin v3.4.0 loading...
+[00:27:41] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:27:41]   Loaded.
+[00:27:41]  Loading plugin: sscanf
+[00:27:41] 
+
+[00:27:41]  ===============================
+
+[00:27:41]       sscanf plugin loaded.     
+
+[00:27:41]          Version:  2.8.3        
+
+[00:27:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:27:41]  ===============================
+
+[00:27:41]   Loaded.
+[00:27:41]  Loading plugin: cef
+[00:27:41] CEF plugin is successful loaded.
+[00:27:41]   Loaded.
+[00:27:41]  Loaded 3 plugins.
+
+[00:27:41] 
+[00:27:41] Filterscripts
+[00:27:41] ---------------
+[00:27:41]   Loaded 0 filterscripts.
+
+[00:27:41] Number of vehicle models: 0
+[00:27:56] [connection] 127.0.0.1:41171 requests connection cookie.
+[00:27:56] [connection] incoming connection: 127.0.0.1:41171 id: 0
+[00:27:56] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:28:16] filterscripts = ""  (string)
+[00:28:16] 
+[00:28:16] Server Plugins
+[00:28:16] --------------
+[00:28:16]  Loading plugin: pawncmd
+[00:28:16] [Pawn.CMD] plugin v3.4.0 loading...
+[00:28:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[00:28:16]   Loaded.
+[00:28:16]  Loading plugin: sscanf
+[00:28:16] 
+
+[00:28:16]  ===============================
+
+[00:28:16]       sscanf plugin loaded.     
+
+[00:28:16]          Version:  2.8.3        
+
+[00:28:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:28:16]  ===============================
+
+[00:28:16]   Loaded.
+[00:28:16]  Loading plugin: cef
+[00:28:16] CEF plugin is successful loaded.
+[00:28:16]   Loaded.
+[00:28:17]  Loaded 3 plugins.
+
+[00:28:17] 
+[00:28:17] Filterscripts
+[00:28:17] ---------------
+[00:28:17]   Loaded 0 filterscripts.
+
+[00:28:17] Number of vehicle models: 0
+[00:28:20] [connection] 127.0.0.1:40781 requests connection cookie.
+[00:28:20] [connection] incoming connection: 127.0.0.1:40781 id: 0
+[00:28:20] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:29:28] [part] Vitaly_Borins has left the server (0:1)
+[00:29:29] [connection] 127.0.0.1:39728 requests connection cookie.
+[00:29:29] [connection] incoming connection: 127.0.0.1:39728 id: 0
+[00:29:29] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:29:29] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:29:31] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:29:33] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:29:38] [part] Vitaly_Borins has left the server (0:1)
+[00:29:39] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:29:41] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:29:53] [connection] 127.0.0.1:38850 requests connection cookie.
+[00:29:53] [connection] incoming connection: 127.0.0.1:38850 id: 0
+[00:29:53] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+[00:30:18] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:30:20] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[00:30:27] [part] Vitaly_Borins has left the server (0:0)
+[00:46:24] [connection] 127.0.0.1:38840 requests connection cookie.
+[00:46:25] [connection] incoming connection: 127.0.0.1:38840 id: 0
+[00:46:25] [join] Vitaly_Borins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:22] filterscripts = ""  (string)
+[19:23:22] 
+[19:23:22] Server Plugins
+[19:23:22] --------------
+[19:23:22]  Loading plugin: pawncmd
+[19:23:22] [Pawn.CMD] plugin v3.4.0 loading...
+[19:23:22] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[19:23:22]   Loaded.
+[19:23:22]  Loading plugin: sscanf
+[19:23:22] 
+
+[19:23:22]  ===============================
+
+[19:23:22]       sscanf plugin loaded.     
+
+[19:23:22]          Version:  2.8.3        
+
+[19:23:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:23:22]  ===============================
+
+[19:23:22]   Loaded.
+[19:23:22]  Loading plugin: cef
+[19:23:22] CEF plugin is successful loaded.
+[19:23:22]   Loaded.
+[19:23:22]  Loaded 3 plugins.
+
+[19:23:22] 
+[19:23:22] Filterscripts
+[19:23:22] ---------------
+[19:23:22]   Loaded 0 filterscripts.
+
+[19:23:22] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[19:23:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:54] filterscripts = ""  (string)
+[19:23:54] 
+[19:23:54] Server Plugins
+[19:23:54] --------------
+[19:23:54]  Loading plugin: pawncmd
+[19:23:54] [Pawn.CMD] plugin v3.4.0 loading...
+[19:23:54] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[19:23:54]   Loaded.
+[19:23:54]  Loading plugin: sscanf
+[19:23:54] 
+
+[19:23:54]  ===============================
+
+[19:23:54]       sscanf plugin loaded.     
+
+[19:23:54]          Version:  2.8.3        
+
+[19:23:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:23:54]  ===============================
+
+[19:23:54]   Loaded.
+[19:23:54]  Loading plugin: cef
+[19:23:54] CEF plugin is successful loaded.
+[19:23:54]   Loaded.
+[19:23:54]  Loading plugin: streamer
+[19:23:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:23:54]   Loaded.
+[19:23:54]  Loaded 4 plugins.
+
+[19:23:54] 
+[19:23:54] Filterscripts
+[19:23:54] ---------------
+[19:23:54]   Loaded 0 filterscripts.
+
+[19:23:54] Number of vehicle models: 0
+[19:24:11] [connection] 127.0.0.1:38447 requests connection cookie.
+[19:24:11] [connection] incoming connection: 127.0.0.1:38447 id: 0
+[19:24:11] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:18] filterscripts = ""  (string)
+[20:01:18] 
+[20:01:18] Server Plugins
+[20:01:18] --------------
+[20:01:18]  Loading plugin: pawncmd
+[20:01:18] [Pawn.CMD] plugin v3.4.0 loading...
+[20:01:18] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:01:18]   Loaded.
+[20:01:18]  Loading plugin: sscanf
+[20:01:18] 
+
+[20:01:18]  ===============================
+
+[20:01:18]       sscanf plugin loaded.     
+
+[20:01:18]          Version:  2.8.3        
+
+[20:01:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:01:18]  ===============================
+
+[20:01:18]   Loaded.
+[20:01:18]  Loading plugin: cef
+[20:01:18] CEF plugin is successful loaded.
+[20:01:18]   Loaded.
+[20:01:18]  Loading plugin: streamer
+[20:01:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:01:18]   Loaded.
+[20:01:18]  Loaded 4 plugins.
+
+[20:01:18] 
+[20:01:18] Filterscripts
+[20:01:18] ---------------
+[20:01:18]   Loaded 0 filterscripts.
+
+[20:01:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:36] filterscripts = ""  (string)
+[20:01:36] 
+[20:01:36] Server Plugins
+[20:01:36] --------------
+[20:01:36]  Loading plugin: pawncmd
+[20:01:36] [Pawn.CMD] plugin v3.4.0 loading...
+[20:01:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:01:36]   Loaded.
+[20:01:36]  Loading plugin: sscanf
+[20:01:36] 
+
+[20:01:36]  ===============================
+
+[20:01:36]       sscanf plugin loaded.     
+
+[20:01:36]          Version:  2.8.3        
+
+[20:01:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:01:36]  ===============================
+
+[20:01:36]   Loaded.
+[20:01:36]  Loading plugin: cef
+[20:01:36] CEF plugin is successful loaded.
+[20:01:36]   Loaded.
+[20:01:36]  Loading plugin: streamer
+[20:01:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:01:36]   Loaded.
+[20:01:36]  Loaded 4 plugins.
+
+[20:01:36] 
+[20:01:36] Filterscripts
+[20:01:36] ---------------
+[20:01:36]   Loaded 0 filterscripts.
+
+[20:01:36] Number of vehicle models: 0
+[20:01:40] [connection] 127.0.0.1:38447 requests connection cookie.
+[20:01:40] [connection] incoming connection: 127.0.0.1:38447 id: 0
+[20:01:40] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:02] filterscripts = ""  (string)
+[20:02:02] 
+[20:02:02] Server Plugins
+[20:02:02] --------------
+[20:02:02]  Loading plugin: pawncmd
+[20:02:02] [Pawn.CMD] plugin v3.4.0 loading...
+[20:02:02] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:02:02]   Loaded.
+[20:02:02]  Loading plugin: sscanf
+[20:02:02] 
+
+[20:02:02]  ===============================
+
+[20:02:02]       sscanf plugin loaded.     
+
+[20:02:02]          Version:  2.8.3        
+
+[20:02:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:02:02]  ===============================
+
+[20:02:02]   Loaded.
+[20:02:02]  Loading plugin: cef
+[20:02:02] CEF plugin is successful loaded.
+[20:02:02]   Loaded.
+[20:02:02]  Loading plugin: streamer
+[20:02:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:02:02]   Loaded.
+[20:02:02]  Loaded 4 plugins.
+
+[20:02:02] 
+[20:02:02] Filterscripts
+[20:02:02] ---------------
+[20:02:02]   Loaded 0 filterscripts.
+
+[20:02:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:08] filterscripts = ""  (string)
+[20:02:08] 
+[20:02:08] Server Plugins
+[20:02:08] --------------
+[20:02:08]  Loading plugin: pawncmd
+[20:02:08] [Pawn.CMD] plugin v3.4.0 loading...
+[20:02:08] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:02:08]   Loaded.
+[20:02:08]  Loading plugin: sscanf
+[20:02:08] 
+
+[20:02:08]  ===============================
+
+[20:02:08]       sscanf plugin loaded.     
+
+[20:02:08]          Version:  2.8.3        
+
+[20:02:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:02:08]  ===============================
+
+[20:02:08]   Loaded.
+[20:02:08]  Loading plugin: cef
+[20:02:08] CEF plugin is successful loaded.
+[20:02:08]   Loaded.
+[20:02:08]  Loading plugin: streamer
+[20:02:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:02:08]   Loaded.
+[20:02:08]  Loaded 4 plugins.
+
+[20:02:08] 
+[20:02:08] Filterscripts
+[20:02:08] ---------------
+[20:02:08]   Loaded 0 filterscripts.
+
+[20:02:08] [Load System]: LoadBottles �������� 119 �������.
+[20:02:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:18] filterscripts = ""  (string)
+[20:02:18] 
+[20:02:18] Server Plugins
+[20:02:18] --------------
+[20:02:18]  Loading plugin: pawncmd
+[20:02:18] [Pawn.CMD] plugin v3.4.0 loading...
+[20:02:18] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:02:18]   Loaded.
+[20:02:18]  Loading plugin: sscanf
+[20:02:18] 
+
+[20:02:18]  ===============================
+
+[20:02:18]       sscanf plugin loaded.     
+
+[20:02:18]          Version:  2.8.3        
+
+[20:02:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:02:18]  ===============================
+
+[20:02:18]   Loaded.
+[20:02:18]  Loading plugin: cef
+[20:02:18] CEF plugin is successful loaded.
+[20:02:18]   Loaded.
+[20:02:18]  Loading plugin: streamer
+[20:02:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:02:18]   Loaded.
+[20:02:18]  Loaded 4 plugins.
+
+[20:02:18] 
+[20:02:18] Filterscripts
+[20:02:18] ---------------
+[20:02:18]   Loaded 0 filterscripts.
+
+[20:02:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:03:43] filterscripts = ""  (string)
+[20:03:43] 
+[20:03:43] Server Plugins
+[20:03:43] --------------
+[20:03:43]  Loading plugin: pawncmd
+[20:03:43] [Pawn.CMD] plugin v3.4.0 loading...
+[20:03:43] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:03:43]   Loaded.
+[20:03:43]  Loading plugin: sscanf
+[20:03:43] 
+
+[20:03:43]  ===============================
+
+[20:03:43]       sscanf plugin loaded.     
+
+[20:03:43]          Version:  2.8.3        
+
+[20:03:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:03:43]  ===============================
+
+[20:03:43]   Loaded.
+[20:03:43]  Loading plugin: cef
+[20:03:43] CEF plugin is successful loaded.
+[20:03:43]   Loaded.
+[20:03:43]  Loading plugin: streamer
+[20:03:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:03:43]   Loaded.
+[20:03:43]  Loaded 4 plugins.
+
+[20:03:43] 
+[20:03:43] Filterscripts
+[20:03:43] ---------------
+[20:03:43]   Loaded 0 filterscripts.
+
+[20:03:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:08] filterscripts = ""  (string)
+[20:06:08] 
+[20:06:08] Server Plugins
+[20:06:08] --------------
+[20:06:08]  Loading plugin: pawncmd
+[20:06:08] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:08] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:08]   Loaded.
+[20:06:08]  Loading plugin: sscanf
+[20:06:08] 
+
+[20:06:08]  ===============================
+
+[20:06:08]       sscanf plugin loaded.     
+
+[20:06:08]          Version:  2.8.3        
+
+[20:06:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:08]  ===============================
+
+[20:06:08]   Loaded.
+[20:06:08]  Loading plugin: cef
+[20:06:08] CEF plugin is successful loaded.
+[20:06:08]   Loaded.
+[20:06:08]  Loading plugin: streamer
+[20:06:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:08]   Loaded.
+[20:06:08]  Loaded 4 plugins.
+
+[20:06:08] 
+[20:06:08] Filterscripts
+[20:06:08] ---------------
+[20:06:08]   Loaded 0 filterscripts.
+
+[20:06:08] [Load System]: LoadBottles �������� -989961166 �������.
+[20:06:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:16] filterscripts = ""  (string)
+[20:06:16] 
+[20:06:16] Server Plugins
+[20:06:16] --------------
+[20:06:16]  Loading plugin: pawncmd
+[20:06:16] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:16]   Loaded.
+[20:06:16]  Loading plugin: sscanf
+[20:06:16] 
+
+[20:06:16]  ===============================
+
+[20:06:16]       sscanf plugin loaded.     
+
+[20:06:16]          Version:  2.8.3        
+
+[20:06:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:16]  ===============================
+
+[20:06:16]   Loaded.
+[20:06:16]  Loading plugin: cef
+[20:06:16] CEF plugin is successful loaded.
+[20:06:16]   Loaded.
+[20:06:16]  Loading plugin: streamer
+[20:06:16] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:16]   Loaded.
+[20:06:16]  Loaded 4 plugins.
+
+[20:06:16] 
+[20:06:16] Filterscripts
+[20:06:16] ---------------
+[20:06:16]   Loaded 0 filterscripts.
+
+[20:06:16] [Load System]: LoadBottles �������� 1156371875 �������.
+[20:06:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:23] filterscripts = ""  (string)
+[20:06:23] 
+[20:06:23] Server Plugins
+[20:06:23] --------------
+[20:06:23]  Loading plugin: pawncmd
+[20:06:23] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:23]   Loaded.
+[20:06:23]  Loading plugin: sscanf
+[20:06:23] 
+
+[20:06:23]  ===============================
+
+[20:06:23]       sscanf plugin loaded.     
+
+[20:06:23]          Version:  2.8.3        
+
+[20:06:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:23]  ===============================
+
+[20:06:23]   Loaded.
+[20:06:23]  Loading plugin: cef
+[20:06:23] CEF plugin is successful loaded.
+[20:06:23]   Loaded.
+[20:06:23]  Loading plugin: streamer
+[20:06:23] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:23]   Loaded.
+[20:06:23]  Loaded 4 plugins.
+
+[20:06:23] 
+[20:06:23] Filterscripts
+[20:06:23] ---------------
+[20:06:23]   Loaded 0 filterscripts.
+
+[20:06:23] [Load System]: LoadBottles �������� 1894.676147 �������.
+[20:06:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:35] filterscripts = ""  (string)
+[20:06:35] 
+[20:06:35] Server Plugins
+[20:06:35] --------------
+[20:06:35]  Loading plugin: pawncmd
+[20:06:35] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:35] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:35]   Loaded.
+[20:06:35]  Loading plugin: sscanf
+[20:06:35] 
+
+[20:06:35]  ===============================
+
+[20:06:35]       sscanf plugin loaded.     
+
+[20:06:35]          Version:  2.8.3        
+
+[20:06:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:35]  ===============================
+
+[20:06:35]   Loaded.
+[20:06:35]  Loading plugin: cef
+[20:06:35] CEF plugin is successful loaded.
+[20:06:35]   Loaded.
+[20:06:35]  Loading plugin: streamer
+[20:06:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:35]   Loaded.
+[20:06:35]  Loaded 4 plugins.
+
+[20:06:35] 
+[20:06:35] Filterscripts
+[20:06:35] ---------------
+[20:06:35]   Loaded 0 filterscripts.
+
+[20:06:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:42] filterscripts = ""  (string)
+[20:06:42] 
+[20:06:42] Server Plugins
+[20:06:42] --------------
+[20:06:42]  Loading plugin: pawncmd
+[20:06:42] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:42] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:42]   Loaded.
+[20:06:42]  Loading plugin: sscanf
+[20:06:42] 
+
+[20:06:42]  ===============================
+
+[20:06:42]       sscanf plugin loaded.     
+
+[20:06:42]          Version:  2.8.3        
+
+[20:06:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:42]  ===============================
+
+[20:06:42]   Loaded.
+[20:06:42]  Loading plugin: cef
+[20:06:42] CEF plugin is successful loaded.
+[20:06:42]   Loaded.
+[20:06:42]  Loading plugin: streamer
+[20:06:42] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:42]   Loaded.
+[20:06:42]  Loaded 4 plugins.
+
+[20:06:42] 
+[20:06:42] Filterscripts
+[20:06:42] ---------------
+[20:06:42]   Loaded 0 filterscripts.
+
+[20:06:42] [Load System]: LoadBottles �������� 119 �������.
+[20:06:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:49] filterscripts = ""  (string)
+[20:06:49] 
+[20:06:49] Server Plugins
+[20:06:49] --------------
+[20:06:49]  Loading plugin: pawncmd
+[20:06:49] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:49] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:49]   Loaded.
+[20:06:49]  Loading plugin: sscanf
+[20:06:49] 
+
+[20:06:49]  ===============================
+
+[20:06:49]       sscanf plugin loaded.     
+
+[20:06:49]          Version:  2.8.3        
+
+[20:06:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:49]  ===============================
+
+[20:06:49]   Loaded.
+[20:06:49]  Loading plugin: cef
+[20:06:49] CEF plugin is successful loaded.
+[20:06:49]   Loaded.
+[20:06:49]  Loading plugin: streamer
+[20:06:49] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:49]   Loaded.
+[20:06:49]  Loaded 4 plugins.
+
+[20:06:49] 
+[20:06:49] Filterscripts
+[20:06:49] ---------------
+[20:06:49]   Loaded 0 filterscripts.
+
+[20:06:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:55] filterscripts = ""  (string)
+[20:06:55] 
+[20:06:55] Server Plugins
+[20:06:55] --------------
+[20:06:55]  Loading plugin: pawncmd
+[20:06:55] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:55] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:55]   Loaded.
+[20:06:55]  Loading plugin: sscanf
+[20:06:55] 
+
+[20:06:55]  ===============================
+
+[20:06:55]       sscanf plugin loaded.     
+
+[20:06:55]          Version:  2.8.3        
+
+[20:06:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:55]  ===============================
+
+[20:06:55]   Loaded.
+[20:06:55]  Loading plugin: cef
+[20:06:55] CEF plugin is successful loaded.
+[20:06:55]   Loaded.
+[20:06:55]  Loading plugin: streamer
+[20:06:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:55]   Loaded.
+[20:06:55]  Loaded 4 plugins.
+
+[20:06:55] 
+[20:06:55] Filterscripts
+[20:06:55] ---------------
+[20:06:55]   Loaded 0 filterscripts.
+
+[20:06:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:59] filterscripts = ""  (string)
+[20:06:59] 
+[20:06:59] Server Plugins
+[20:06:59] --------------
+[20:06:59]  Loading plugin: pawncmd
+[20:06:59] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:59] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:06:59]   Loaded.
+[20:06:59]  Loading plugin: sscanf
+[20:06:59] 
+
+[20:06:59]  ===============================
+
+[20:06:59]       sscanf plugin loaded.     
+
+[20:06:59]          Version:  2.8.3        
+
+[20:06:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:59]  ===============================
+
+[20:06:59]   Loaded.
+[20:06:59]  Loading plugin: cef
+[20:06:59] CEF plugin is successful loaded.
+[20:06:59]   Loaded.
+[20:06:59]  Loading plugin: streamer
+[20:06:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:06:59]   Loaded.
+[20:06:59]  Loaded 4 plugins.
+
+[20:06:59] 
+[20:06:59] Filterscripts
+[20:06:59] ---------------
+[20:06:59]   Loaded 0 filterscripts.
+
+[20:06:59] [Load System]: LoadBottles �������� 119 �������.
+[20:06:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:04] filterscripts = ""  (string)
+[20:07:04] 
+[20:07:04] Server Plugins
+[20:07:04] --------------
+[20:07:04]  Loading plugin: pawncmd
+[20:07:04] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:04] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: sscanf
+[20:07:04] 
+
+[20:07:04]  ===============================
+
+[20:07:04]       sscanf plugin loaded.     
+
+[20:07:04]          Version:  2.8.3        
+
+[20:07:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:04]  ===============================
+
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: cef
+[20:07:04] CEF plugin is successful loaded.
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: streamer
+[20:07:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:04]   Loaded.
+[20:07:04]  Loaded 4 plugins.
+
+[20:07:04] 
+[20:07:04] Filterscripts
+[20:07:04] ---------------
+[20:07:04]   Loaded 0 filterscripts.
+
+[20:07:04] [Load System]: LoadBottles �������� 119 �������.
+[20:07:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:08] filterscripts = ""  (string)
+[20:07:08] 
+[20:07:08] Server Plugins
+[20:07:08] --------------
+[20:07:08]  Loading plugin: pawncmd
+[20:07:08] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:08] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:08]   Loaded.
+[20:07:08]  Loading plugin: sscanf
+[20:07:08] 
+
+[20:07:08]  ===============================
+
+[20:07:08]       sscanf plugin loaded.     
+
+[20:07:08]          Version:  2.8.3        
+
+[20:07:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:08]  ===============================
+
+[20:07:08]   Loaded.
+[20:07:08]  Loading plugin: cef
+[20:07:08] CEF plugin is successful loaded.
+[20:07:08]   Loaded.
+[20:07:08]  Loading plugin: streamer
+[20:07:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:08]   Loaded.
+[20:07:08]  Loaded 4 plugins.
+
+[20:07:08] 
+[20:07:08] Filterscripts
+[20:07:08] ---------------
+[20:07:08]   Loaded 0 filterscripts.
+
+[20:07:08] [Load System]: LoadBottles �������� 119 �������.
+[20:07:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:12] filterscripts = ""  (string)
+[20:07:12] 
+[20:07:12] Server Plugins
+[20:07:12] --------------
+[20:07:12]  Loading plugin: pawncmd
+[20:07:12] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:12] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:12]   Loaded.
+[20:07:12]  Loading plugin: sscanf
+[20:07:12] 
+
+[20:07:12]  ===============================
+
+[20:07:12]       sscanf plugin loaded.     
+
+[20:07:12]          Version:  2.8.3        
+
+[20:07:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:12]  ===============================
+
+[20:07:12]   Loaded.
+[20:07:12]  Loading plugin: cef
+[20:07:13] CEF plugin is successful loaded.
+[20:07:13]   Loaded.
+[20:07:13]  Loading plugin: streamer
+[20:07:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:13]   Loaded.
+[20:07:13]  Loaded 4 plugins.
+
+[20:07:13] 
+[20:07:13] Filterscripts
+[20:07:13] ---------------
+[20:07:13]   Loaded 0 filterscripts.
+
+[20:07:13] [Load System]: LoadBottles �������� 119 �������.
+[20:07:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:18] filterscripts = ""  (string)
+[20:07:18] 
+[20:07:18] Server Plugins
+[20:07:18] --------------
+[20:07:18]  Loading plugin: pawncmd
+[20:07:18] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:18] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:18]   Loaded.
+[20:07:18]  Loading plugin: sscanf
+[20:07:18] 
+
+[20:07:18]  ===============================
+
+[20:07:18]       sscanf plugin loaded.     
+
+[20:07:18]          Version:  2.8.3        
+
+[20:07:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:18]  ===============================
+
+[20:07:18]   Loaded.
+[20:07:18]  Loading plugin: cef
+[20:07:18] CEF plugin is successful loaded.
+[20:07:18]   Loaded.
+[20:07:18]  Loading plugin: streamer
+[20:07:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:18]   Loaded.
+[20:07:18]  Loaded 4 plugins.
+
+[20:07:18] 
+[20:07:18] Filterscripts
+[20:07:18] ---------------
+[20:07:18]   Loaded 0 filterscripts.
+
+[20:07:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:23] filterscripts = ""  (string)
+[20:07:23] 
+[20:07:23] Server Plugins
+[20:07:23] --------------
+[20:07:23]  Loading plugin: pawncmd
+[20:07:23] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:23]   Loaded.
+[20:07:23]  Loading plugin: sscanf
+[20:07:23] 
+
+[20:07:23]  ===============================
+
+[20:07:23]       sscanf plugin loaded.     
+
+[20:07:23]          Version:  2.8.3        
+
+[20:07:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:23]  ===============================
+
+[20:07:23]   Loaded.
+[20:07:23]  Loading plugin: cef
+[20:07:23] CEF plugin is successful loaded.
+[20:07:23]   Loaded.
+[20:07:23]  Loading plugin: streamer
+[20:07:23] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:23]   Loaded.
+[20:07:23]  Loaded 4 plugins.
+
+[20:07:23] 
+[20:07:23] Filterscripts
+[20:07:23] ---------------
+[20:07:23]   Loaded 0 filterscripts.
+
+[20:07:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:29] filterscripts = ""  (string)
+[20:07:29] 
+[20:07:29] Server Plugins
+[20:07:29] --------------
+[20:07:29]  Loading plugin: pawncmd
+[20:07:29] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:29]   Loaded.
+[20:07:29]  Loading plugin: sscanf
+[20:07:29] 
+
+[20:07:29]  ===============================
+
+[20:07:29]       sscanf plugin loaded.     
+
+[20:07:29]          Version:  2.8.3        
+
+[20:07:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:29]  ===============================
+
+[20:07:29]   Loaded.
+[20:07:29]  Loading plugin: cef
+[20:07:29] CEF plugin is successful loaded.
+[20:07:29]   Loaded.
+[20:07:29]  Loading plugin: streamer
+[20:07:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:29]   Loaded.
+[20:07:29]  Loaded 4 plugins.
+
+[20:07:29] 
+[20:07:29] Filterscripts
+[20:07:29] ---------------
+[20:07:29]   Loaded 0 filterscripts.
+
+[20:07:29] [Load System]: LoadBottles �������� 119 �������.
+[20:07:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:34] filterscripts = ""  (string)
+[20:07:34] 
+[20:07:34] Server Plugins
+[20:07:34] --------------
+[20:07:34]  Loading plugin: pawncmd
+[20:07:34] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:34] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:34]   Loaded.
+[20:07:34]  Loading plugin: sscanf
+[20:07:34] 
+
+[20:07:34]  ===============================
+
+[20:07:34]       sscanf plugin loaded.     
+
+[20:07:34]          Version:  2.8.3        
+
+[20:07:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:34]  ===============================
+
+[20:07:34]   Loaded.
+[20:07:34]  Loading plugin: cef
+[20:07:34] CEF plugin is successful loaded.
+[20:07:34]   Loaded.
+[20:07:34]  Loading plugin: streamer
+[20:07:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:34]   Loaded.
+[20:07:34]  Loaded 4 plugins.
+
+[20:07:34] 
+[20:07:34] Filterscripts
+[20:07:34] ---------------
+[20:07:34]   Loaded 0 filterscripts.
+
+[20:07:34] [Load System]: LoadBottles �������� 119 �������.
+[20:07:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:38] filterscripts = ""  (string)
+[20:07:38] 
+[20:07:38] Server Plugins
+[20:07:38] --------------
+[20:07:38]  Loading plugin: pawncmd
+[20:07:38] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:38] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:38]   Loaded.
+[20:07:38]  Loading plugin: sscanf
+[20:07:38] 
+
+[20:07:38]  ===============================
+
+[20:07:38]       sscanf plugin loaded.     
+
+[20:07:38]          Version:  2.8.3        
+
+[20:07:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:38]  ===============================
+
+[20:07:38]   Loaded.
+[20:07:38]  Loading plugin: cef
+[20:07:38] CEF plugin is successful loaded.
+[20:07:38]   Loaded.
+[20:07:38]  Loading plugin: streamer
+[20:07:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:38]   Loaded.
+[20:07:38]  Loaded 4 plugins.
+
+[20:07:38] 
+[20:07:38] Filterscripts
+[20:07:38] ---------------
+[20:07:38]   Loaded 0 filterscripts.
+
+[20:07:38] [Load System]: LoadBottles �������� 119 �������.
+[20:07:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:42] filterscripts = ""  (string)
+[20:07:42] 
+[20:07:42] Server Plugins
+[20:07:42] --------------
+[20:07:42]  Loading plugin: pawncmd
+[20:07:42] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:42] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:42]   Loaded.
+[20:07:42]  Loading plugin: sscanf
+[20:07:42] 
+
+[20:07:42]  ===============================
+
+[20:07:42]       sscanf plugin loaded.     
+
+[20:07:42]          Version:  2.8.3        
+
+[20:07:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:42]  ===============================
+
+[20:07:42]   Loaded.
+[20:07:42]  Loading plugin: cef
+[20:07:42] CEF plugin is successful loaded.
+[20:07:42]   Loaded.
+[20:07:42]  Loading plugin: streamer
+[20:07:42] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:42]   Loaded.
+[20:07:42]  Loaded 4 plugins.
+
+[20:07:42] 
+[20:07:42] Filterscripts
+[20:07:42] ---------------
+[20:07:42]   Loaded 0 filterscripts.
+
+[20:07:42] [Load System]: LoadBottles �������� 119 �������.
+[20:07:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:49] filterscripts = ""  (string)
+[20:07:49] 
+[20:07:49] Server Plugins
+[20:07:49] --------------
+[20:07:49]  Loading plugin: pawncmd
+[20:07:49] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:49] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:49]   Loaded.
+[20:07:49]  Loading plugin: sscanf
+[20:07:49] 
+
+[20:07:49]  ===============================
+
+[20:07:49]       sscanf plugin loaded.     
+
+[20:07:49]          Version:  2.8.3        
+
+[20:07:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:49]  ===============================
+
+[20:07:49]   Loaded.
+[20:07:49]  Loading plugin: cef
+[20:07:49] CEF plugin is successful loaded.
+[20:07:49]   Loaded.
+[20:07:49]  Loading plugin: streamer
+[20:07:49] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:49]   Loaded.
+[20:07:49]  Loaded 4 plugins.
+
+[20:07:49] 
+[20:07:49] Filterscripts
+[20:07:49] ---------------
+[20:07:49]   Loaded 0 filterscripts.
+
+[20:07:49] [Load System]: LoadBottles �������� 119 �������.
+[20:07:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:53] filterscripts = ""  (string)
+[20:07:53] 
+[20:07:53] Server Plugins
+[20:07:53] --------------
+[20:07:53]  Loading plugin: pawncmd
+[20:07:53] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:53]   Loaded.
+[20:07:53]  Loading plugin: sscanf
+[20:07:53] 
+
+[20:07:53]  ===============================
+
+[20:07:53]       sscanf plugin loaded.     
+
+[20:07:53]          Version:  2.8.3        
+
+[20:07:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:53]  ===============================
+
+[20:07:53]   Loaded.
+[20:07:53]  Loading plugin: cef
+[20:07:53] CEF plugin is successful loaded.
+[20:07:53]   Loaded.
+[20:07:53]  Loading plugin: streamer
+[20:07:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:53]   Loaded.
+[20:07:53]  Loaded 4 plugins.
+
+[20:07:53] 
+[20:07:53] Filterscripts
+[20:07:53] ---------------
+[20:07:53]   Loaded 0 filterscripts.
+
+[20:07:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:58] filterscripts = ""  (string)
+[20:07:58] 
+[20:07:58] Server Plugins
+[20:07:58] --------------
+[20:07:58]  Loading plugin: pawncmd
+[20:07:58] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:58] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:58]   Loaded.
+[20:07:58]  Loading plugin: sscanf
+[20:07:58] 
+
+[20:07:58]  ===============================
+
+[20:07:58]       sscanf plugin loaded.     
+
+[20:07:58]          Version:  2.8.3        
+
+[20:07:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:58]  ===============================
+
+[20:07:58]   Loaded.
+[20:07:58]  Loading plugin: cef
+[20:07:58] CEF plugin is successful loaded.
+[20:07:58]   Loaded.
+[20:07:58]  Loading plugin: streamer
+[20:07:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:07:58]   Loaded.
+[20:07:58]  Loaded 4 plugins.
+
+[20:07:58] 
+[20:07:58] Filterscripts
+[20:07:58] ---------------
+[20:07:58]   Loaded 0 filterscripts.
+
+[20:07:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:34] filterscripts = ""  (string)
+[20:08:34] 
+[20:08:34] Server Plugins
+[20:08:34] --------------
+[20:08:34]  Loading plugin: pawncmd
+[20:08:34] [Pawn.CMD] plugin v3.4.0 loading...
+[20:08:34] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:08:34]   Loaded.
+[20:08:34]  Loading plugin: sscanf
+[20:08:34] 
+
+[20:08:34]  ===============================
+
+[20:08:34]       sscanf plugin loaded.     
+
+[20:08:34]          Version:  2.8.3        
+
+[20:08:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:08:34]  ===============================
+
+[20:08:34]   Loaded.
+[20:08:34]  Loading plugin: cef
+[20:08:34] CEF plugin is successful loaded.
+[20:08:34]   Loaded.
+[20:08:34]  Loading plugin: streamer
+[20:08:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:08:34]   Loaded.
+[20:08:34]  Loaded 4 plugins.
+
+[20:08:34] 
+[20:08:34] Filterscripts
+[20:08:34] ---------------
+[20:08:34]   Loaded 0 filterscripts.
+
+[20:08:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:39] filterscripts = ""  (string)
+[20:08:39] 
+[20:08:39] Server Plugins
+[20:08:39] --------------
+[20:08:39]  Loading plugin: pawncmd
+[20:08:39] [Pawn.CMD] plugin v3.4.0 loading...
+[20:08:39] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:08:39]   Loaded.
+[20:08:39]  Loading plugin: sscanf
+[20:08:39] 
+
+[20:08:39]  ===============================
+
+[20:08:39]       sscanf plugin loaded.     
+
+[20:08:39]          Version:  2.8.3        
+
+[20:08:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:08:39]  ===============================
+
+[20:08:39]   Loaded.
+[20:08:39]  Loading plugin: cef
+[20:08:39] CEF plugin is successful loaded.
+[20:08:39]   Loaded.
+[20:08:39]  Loading plugin: streamer
+[20:08:39] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:08:39]   Loaded.
+[20:08:39]  Loaded 4 plugins.
+
+[20:08:39] 
+[20:08:39] Filterscripts
+[20:08:39] ---------------
+[20:08:39]   Loaded 0 filterscripts.
+
+[20:08:39] [Load System]: LoadBottles �������� 109 �������.
+[20:08:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:41] filterscripts = ""  (string)
+[20:08:41] 
+[20:08:41] Server Plugins
+[20:08:41] --------------
+[20:08:41]  Loading plugin: pawncmd
+[20:08:41] [Pawn.CMD] plugin v3.4.0 loading...
+[20:08:41] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:08:41]   Loaded.
+[20:08:41]  Loading plugin: sscanf
+[20:08:41] 
+
+[20:08:41]  ===============================
+
+[20:08:41]       sscanf plugin loaded.     
+
+[20:08:41]          Version:  2.8.3        
+
+[20:08:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:08:41]  ===============================
+
+[20:08:41]   Loaded.
+[20:08:41]  Loading plugin: cef
+[20:08:41] CEF plugin is successful loaded.
+[20:08:41]   Loaded.
+[20:08:41]  Loading plugin: streamer
+[20:08:41] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:08:41]   Loaded.
+[20:08:41]  Loaded 4 plugins.
+
+[20:08:41] 
+[20:08:41] Filterscripts
+[20:08:41] ---------------
+[20:08:41]   Loaded 0 filterscripts.
+
+[20:08:41] [Load System]: LoadBottles �������� 109 �������.
+[20:08:41] Number of vehicle models: 0
+[20:08:41] [connection] 127.0.0.1:38447 requests connection cookie.
+[20:08:42] [connection] incoming connection: 127.0.0.1:38447 id: 0
+[20:08:42] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:38:22] filterscripts = ""  (string)
+[13:38:22] 
+[13:38:22] Server Plugins
+[13:38:22] --------------
+[13:38:22]  Loading plugin: pawncmd
+[13:38:22] [Pawn.CMD] plugin v3.4.0 loading...
+[13:38:22] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:38:22]   Loaded.
+[13:38:22]  Loading plugin: sscanf
+[13:38:22] 
+
+[13:38:22]  ===============================
+
+[13:38:22]       sscanf plugin loaded.     
+
+[13:38:22]          Version:  2.8.3        
+
+[13:38:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:38:22]  ===============================
+
+[13:38:22]   Loaded.
+[13:38:22]  Loading plugin: cef
+[13:38:22] CEF plugin is successful loaded.
+[13:38:22]   Loaded.
+[13:38:22]  Loading plugin: streamer
+[13:38:22] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[13:38:22]   Loaded.
+[13:38:22]  Loaded 4 plugins.
+
+[13:38:22] 
+[13:38:22] Filterscripts
+[13:38:22] ---------------
+[13:38:22]   Loaded 0 filterscripts.
+
+[13:38:22] [Load System]: LoadBottles �������� 109 �������.
+[13:38:22] Number of vehicle models: 0
+[13:38:48] [connection] 127.0.0.1:40050 requests connection cookie.
+[13:38:48] [connection] incoming connection: 127.0.0.1:40050 id: 0
+[13:38:48] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[13:39:15] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[13:39:17] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[13:39:19] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[13:39:28] [part] Survers_Delevoper has left the server (0:0)
+[13:39:30] [connection] 127.0.0.1:40910 requests connection cookie.
+[13:39:30] [connection] incoming connection: 127.0.0.1:40910 id: 0
+[13:39:30] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:47:17] filterscripts = ""  (string)
+[13:47:17] 
+[13:47:17] Server Plugins
+[13:47:17] --------------
+[13:47:17]  Loading plugin: pawncmd
+[13:47:17] [Pawn.CMD] plugin v3.4.0 loading...
+[13:47:17] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:47:17]   Loaded.
+[13:47:17]  Loading plugin: sscanf
+[13:47:17] 
+
+[13:47:17]  ===============================
+
+[13:47:17]       sscanf plugin loaded.     
+
+[13:47:17]          Version:  2.8.3        
+
+[13:47:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:47:17]  ===============================
+
+[13:47:17]   Loaded.
+[13:47:17]  Loading plugin: cef
+[13:47:17] CEF plugin is successful loaded.
+[13:47:17]   Loaded.
+[13:47:17]  Loading plugin: streamer
+[13:47:17] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[13:47:17]   Loaded.
+[13:47:17]  Loaded 4 plugins.
+
+[13:47:17] 
+[13:47:17] Filterscripts
+[13:47:17] ---------------
+[13:47:17]   Loaded 0 filterscripts.
+
+[13:47:17] [Load System]: LoadBottles �������� 109 �������.
+[13:47:17] Number of vehicle models: 0
+[13:47:20] [connection] 127.0.0.1:38005 requests connection cookie.
+[13:47:20] [connection] incoming connection: 127.0.0.1:38005 id: 0
+[13:47:20] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:52:26] filterscripts = ""  (string)
+[13:52:26] 
+[13:52:26] Server Plugins
+[13:52:26] --------------
+[13:52:26]  Loading plugin: pawncmd
+[13:52:26] [Pawn.CMD] plugin v3.4.0 loading...
+[13:52:26] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:52:26]   Loaded.
+[13:52:26]  Loading plugin: sscanf
+[13:52:26] 
+
+[13:52:26]  ===============================
+
+[13:52:26]       sscanf plugin loaded.     
+
+[13:52:26]          Version:  2.8.3        
+
+[13:52:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:52:26]  ===============================
+
+[13:52:26]   Loaded.
+[13:52:26]  Loading plugin: cef
+[13:52:26] CEF plugin is successful loaded.
+[13:52:26]   Loaded.
+[13:52:26]  Loading plugin: streamer
+[13:52:26] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[13:52:26]   Loaded.
+[13:52:26]  Loaded 4 plugins.
+
+[13:52:26] 
+[13:52:26] Filterscripts
+[13:52:26] ---------------
+[13:52:26]   Loaded 0 filterscripts.
+
+[13:52:26] [Load System]: LoadBottles �������� 109 �������.
+[13:52:26] Number of vehicle models: 0
+[13:52:29] [connection] 127.0.0.1:41628 requests connection cookie.
+[13:52:29] [connection] incoming connection: 127.0.0.1:41628 id: 0
+[13:52:29] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:54:09] filterscripts = ""  (string)
+[13:54:09] 
+[13:54:09] Server Plugins
+[13:54:09] --------------
+[13:54:09]  Loading plugin: pawncmd
+[13:54:09] [Pawn.CMD] plugin v3.4.0 loading...
+[13:54:09] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:54:09]   Loaded.
+[13:54:09]  Loading plugin: sscanf
+[13:54:09] 
+
+[13:54:09]  ===============================
+
+[13:54:09]       sscanf plugin loaded.     
+
+[13:54:09]          Version:  2.8.3        
+
+[13:54:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:54:09]  ===============================
+
+[13:54:09]   Loaded.
+[13:54:09]  Loading plugin: cef
+[13:54:09] CEF plugin is successful loaded.
+[13:54:09]   Loaded.
+[13:54:09]  Loading plugin: streamer
+[13:54:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[13:54:09]   Loaded.
+[13:54:09]  Loaded 4 plugins.
+
+[13:54:09] 
+[13:54:09] Filterscripts
+[13:54:09] ---------------
+[13:54:09]   Loaded 0 filterscripts.
+
+[13:54:09] [Load System]: LoadBottles �������� 109 �������.
+[13:54:09] Number of vehicle models: 0
+[13:54:11] [connection] 127.0.0.1:39875 requests connection cookie.
+[13:54:12] [connection] incoming connection: 127.0.0.1:39875 id: 0
+[13:54:12] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:04:36] filterscripts = ""  (string)
+[14:04:36] 
+[14:04:36] Server Plugins
+[14:04:36] --------------
+[14:04:36]  Loading plugin: pawncmd
+[14:04:36] [Pawn.CMD] plugin v3.4.0 loading...
+[14:04:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:04:36]   Loaded.
+[14:04:36]  Loading plugin: sscanf
+[14:04:36] 
+
+[14:04:36]  ===============================
+
+[14:04:36]       sscanf plugin loaded.     
+
+[14:04:36]          Version:  2.8.3        
+
+[14:04:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:04:36]  ===============================
+
+[14:04:36]   Loaded.
+[14:04:36]  Loading plugin: cef
+[14:04:36] CEF plugin is successful loaded.
+[14:04:36]   Loaded.
+[14:04:36]  Loading plugin: streamer
+[14:04:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:04:36]   Loaded.
+[14:04:36]  Loaded 4 plugins.
+
+[14:04:36] 
+[14:04:36] Filterscripts
+[14:04:36] ---------------
+[14:04:36]   Loaded 0 filterscripts.
+
+[14:04:36] [Load System]: LoadBottles �������� 109 �������.
+[14:04:36] Number of vehicle models: 0
+[14:04:38] [connection] 127.0.0.1:38250 requests connection cookie.
+[14:04:39] [connection] incoming connection: 127.0.0.1:38250 id: 0
+[14:04:39] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[14:06:53] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[14:06:55] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[14:07:06] [part] Survers_Delevoper has left the server (0:0)
+[14:07:23] [connection] 127.0.0.1:41096 requests connection cookie.
+[14:07:23] [connection] incoming connection: 127.0.0.1:41096 id: 0
+[14:07:23] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:07:30] filterscripts = ""  (string)
+[14:07:30] 
+[14:07:30] Server Plugins
+[14:07:30] --------------
+[14:07:30]  Loading plugin: pawncmd
+[14:07:30] [Pawn.CMD] plugin v3.4.0 loading...
+[14:07:30] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:07:30]   Loaded.
+[14:07:30]  Loading plugin: sscanf
+[14:07:30] 
+
+[14:07:30]  ===============================
+
+[14:07:30]       sscanf plugin loaded.     
+
+[14:07:30]          Version:  2.8.3        
+
+[14:07:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:07:30]  ===============================
+
+[14:07:30]   Loaded.
+[14:07:30]  Loading plugin: cef
+[14:07:30] CEF plugin is successful loaded.
+[14:07:30]   Loaded.
+[14:07:30]  Loading plugin: streamer
+[14:07:30] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:07:30]   Loaded.
+[14:07:30]  Loaded 4 plugins.
+
+[14:07:30] 
+[14:07:30] Filterscripts
+[14:07:30] ---------------
+[14:07:30]   Loaded 0 filterscripts.
+
+[14:07:30] [Load System]: LoadBottles �������� 109 �������.
+[14:07:30] Number of vehicle models: 0
+[14:07:33] [connection] 127.0.0.1:40368 requests connection cookie.
+[14:07:33] [connection] incoming connection: 127.0.0.1:40368 id: 0
+[14:07:34] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:07:54] filterscripts = ""  (string)
+[14:07:54] 
+[14:07:54] Server Plugins
+[14:07:54] --------------
+[14:07:54]  Loading plugin: pawncmd
+[14:07:54] [Pawn.CMD] plugin v3.4.0 loading...
+[14:07:54] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:07:54]   Loaded.
+[14:07:54]  Loading plugin: sscanf
+[14:07:54] 
+
+[14:07:54]  ===============================
+
+[14:07:54]       sscanf plugin loaded.     
+
+[14:07:54]          Version:  2.8.3        
+
+[14:07:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:07:54]  ===============================
+
+[14:07:54]   Loaded.
+[14:07:54]  Loading plugin: cef
+[14:07:54] CEF plugin is successful loaded.
+[14:07:54]   Loaded.
+[14:07:54]  Loading plugin: streamer
+[14:07:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:07:54]   Loaded.
+[14:07:54]  Loaded 4 plugins.
+
+[14:07:54] 
+[14:07:54] Filterscripts
+[14:07:54] ---------------
+[14:07:54]   Loaded 0 filterscripts.
+
+[14:07:54] [Load System]: LoadBottles �������� 109 �������.
+[14:07:54] Number of vehicle models: 0
+[14:07:56] [connection] 127.0.0.1:39834 requests connection cookie.
+[14:07:56] [connection] incoming connection: 127.0.0.1:39834 id: 0
+[14:07:57] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:08:30] filterscripts = ""  (string)
+[14:08:30] 
+[14:08:30] Server Plugins
+[14:08:30] --------------
+[14:08:30]  Loading plugin: pawncmd
+[14:08:30] [Pawn.CMD] plugin v3.4.0 loading...
+[14:08:30] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:08:30]   Loaded.
+[14:08:30]  Loading plugin: sscanf
+[14:08:30] 
+
+[14:08:30]  ===============================
+
+[14:08:30]       sscanf plugin loaded.     
+
+[14:08:30]          Version:  2.8.3        
+
+[14:08:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:08:30]  ===============================
+
+[14:08:30]   Loaded.
+[14:08:30]  Loading plugin: cef
+[14:08:30] CEF plugin is successful loaded.
+[14:08:30]   Loaded.
+[14:08:30]  Loading plugin: streamer
+[14:08:30] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:08:30]   Loaded.
+[14:08:30]  Loaded 4 plugins.
+
+[14:08:30] 
+[14:08:30] Filterscripts
+[14:08:30] ---------------
+[14:08:30]   Loaded 0 filterscripts.
+
+[14:08:30] [Load System]: LoadBottles �������� 109 �������.
+[14:08:30] Number of vehicle models: 0
+[14:08:30] [connection] 127.0.0.1:39834 requests connection cookie.
+[14:08:30] [connection] incoming connection: 127.0.0.1:39834 id: 0
+[14:08:31] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:03] filterscripts = ""  (string)
+[14:09:03] 
+[14:09:03] Server Plugins
+[14:09:03] --------------
+[14:09:03]  Loading plugin: pawncmd
+[14:09:03] [Pawn.CMD] plugin v3.4.0 loading...
+[14:09:03] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:09:03]   Loaded.
+[14:09:03]  Loading plugin: sscanf
+[14:09:03] 
+
+[14:09:03]  ===============================
+
+[14:09:03]       sscanf plugin loaded.     
+
+[14:09:03]          Version:  2.8.3        
+
+[14:09:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:09:03]  ===============================
+
+[14:09:03]   Loaded.
+[14:09:03]  Loading plugin: cef
+[14:09:03] CEF plugin is successful loaded.
+[14:09:03]   Loaded.
+[14:09:03]  Loading plugin: streamer
+[14:09:03] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:09:03]   Loaded.
+[14:09:03]  Loaded 4 plugins.
+
+[14:09:03] 
+[14:09:03] Filterscripts
+[14:09:03] ---------------
+[14:09:03]   Loaded 0 filterscripts.
+
+[14:09:03] [Load System]: LoadBottles �������� 109 �������.
+[14:09:03] Number of vehicle models: 0
+[14:09:04] [connection] 127.0.0.1:39834 requests connection cookie.
+[14:09:04] [connection] incoming connection: 127.0.0.1:39834 id: 0
+[14:09:04] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:24] filterscripts = ""  (string)
+[14:09:24] 
+[14:09:24] Server Plugins
+[14:09:24] --------------
+[14:09:24]  Loading plugin: pawncmd
+[14:09:24] [Pawn.CMD] plugin v3.4.0 loading...
+[14:09:24] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:09:24]   Loaded.
+[14:09:24]  Loading plugin: sscanf
+[14:09:24] 
+
+[14:09:24]  ===============================
+
+[14:09:24]       sscanf plugin loaded.     
+
+[14:09:24]          Version:  2.8.3        
+
+[14:09:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:09:24]  ===============================
+
+[14:09:24]   Loaded.
+[14:09:24]  Loading plugin: cef
+[14:09:24] CEF plugin is successful loaded.
+[14:09:24]   Loaded.
+[14:09:24]  Loading plugin: streamer
+[14:09:24] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:09:24]   Loaded.
+[14:09:24]  Loaded 4 plugins.
+
+[14:09:24] 
+[14:09:24] Filterscripts
+[14:09:24] ---------------
+[14:09:24]   Loaded 0 filterscripts.
+
+[14:09:24] [Load System]: LoadBottles �������� 109 �������.
+[14:09:24] Number of vehicle models: 0
+[14:09:26] [connection] 127.0.0.1:41942 requests connection cookie.
+[14:09:27] [connection] incoming connection: 127.0.0.1:41942 id: 0
+[14:09:27] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:10:03] filterscripts = ""  (string)
+[14:10:03] 
+[14:10:03] Server Plugins
+[14:10:03] --------------
+[14:10:03]  Loading plugin: pawncmd
+[14:10:03] [Pawn.CMD] plugin v3.4.0 loading...
+[14:10:03] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:10:03]   Loaded.
+[14:10:03]  Loading plugin: sscanf
+[14:10:03] 
+
+[14:10:03]  ===============================
+
+[14:10:03]       sscanf plugin loaded.     
+
+[14:10:03]          Version:  2.8.3        
+
+[14:10:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:10:03]  ===============================
+
+[14:10:03]   Loaded.
+[14:10:03]  Loading plugin: cef
+[14:10:03] CEF plugin is successful loaded.
+[14:10:03]   Loaded.
+[14:10:03]  Loading plugin: streamer
+[14:10:03] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:10:03]   Loaded.
+[14:10:03]  Loaded 4 plugins.
+
+[14:10:03] 
+[14:10:03] Filterscripts
+[14:10:03] ---------------
+[14:10:03]   Loaded 0 filterscripts.
+
+[14:10:03] [Load System]: LoadBottles �������� 109 �������.
+[14:10:03] Number of vehicle models: 0
+[14:10:05] [connection] 127.0.0.1:38894 requests connection cookie.
+[14:10:05] [connection] incoming connection: 127.0.0.1:38894 id: 0
+[14:10:06] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:21:25] filterscripts = ""  (string)
+[14:21:25] 
+[14:21:25] Server Plugins
+[14:21:25] --------------
+[14:21:25]  Loading plugin: pawncmd
+[14:21:25] [Pawn.CMD] plugin v3.4.0 loading...
+[14:21:25] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:21:25]   Loaded.
+[14:21:25]  Loading plugin: sscanf
+[14:21:25] 
+
+[14:21:25]  ===============================
+
+[14:21:25]       sscanf plugin loaded.     
+
+[14:21:25]          Version:  2.8.3        
+
+[14:21:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:21:25]  ===============================
+
+[14:21:25]   Loaded.
+[14:21:25]  Loading plugin: cef
+[14:21:25] CEF plugin is successful loaded.
+[14:21:25]   Loaded.
+[14:21:25]  Loading plugin: streamer
+[14:21:25] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:21:25]   Loaded.
+[14:21:25]  Loaded 4 plugins.
+
+[14:21:25] 
+[14:21:25] Filterscripts
+[14:21:25] ---------------
+[14:21:25]   Loaded 0 filterscripts.
+
+[14:21:25] [Load System]: LoadBottles �������� 109 �������.
+[14:21:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:26:54] filterscripts = ""  (string)
+[14:26:54] 
+[14:26:54] Server Plugins
+[14:26:54] --------------
+[14:26:54]  Loading plugin: pawncmd
+[14:26:54] [Pawn.CMD] plugin v3.4.0 loading...
+[14:26:54] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:26:54]   Loaded.
+[14:26:54]  Loading plugin: sscanf
+[14:26:54] 
+
+[14:26:54]  ===============================
+
+[14:26:54]       sscanf plugin loaded.     
+
+[14:26:54]          Version:  2.8.3        
+
+[14:26:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:26:54]  ===============================
+
+[14:26:54]   Loaded.
+[14:26:54]  Loading plugin: cef
+[14:26:54] CEF plugin is successful loaded.
+[14:26:54]   Loaded.
+[14:26:54]  Loading plugin: streamer
+[14:26:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:26:54]   Loaded.
+[14:26:54]  Loaded 4 plugins.
+
+[14:26:54] 
+[14:26:54] Filterscripts
+[14:26:54] ---------------
+[14:26:54]   Loaded 0 filterscripts.
+
+[14:26:54] [Load System]: LoadBottles �������� 109 �������.
+[14:26:54] Number of vehicle models: 0
+[14:26:55] [connection] 127.0.0.1:38895 requests connection cookie.
+[14:26:55] [connection] incoming connection: 127.0.0.1:38895 id: 0
+[14:26:55] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:29:16] filterscripts = ""  (string)
+[14:29:16] 
+[14:29:16] Server Plugins
+[14:29:16] --------------
+[14:29:16]  Loading plugin: pawncmd
+[14:29:16] [Pawn.CMD] plugin v3.4.0 loading...
+[14:29:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:29:16]   Loaded.
+[14:29:16]  Loading plugin: sscanf
+[14:29:16] 
+
+[14:29:16]  ===============================
+
+[14:29:16]       sscanf plugin loaded.     
+
+[14:29:16]          Version:  2.8.3        
+
+[14:29:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:29:16]  ===============================
+
+[14:29:16]   Loaded.
+[14:29:16]  Loading plugin: cef
+[14:29:16] CEF plugin is successful loaded.
+[14:29:16]   Loaded.
+[14:29:16]  Loading plugin: streamer
+[14:29:16] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:29:16]   Loaded.
+[14:29:16]  Loaded 4 plugins.
+
+[14:29:16] 
+[14:29:16] Filterscripts
+[14:29:16] ---------------
+[14:29:16]   Loaded 0 filterscripts.
+
+[14:29:16] [Load System]: LoadBottles �������� 109 �������.
+[14:29:16] Number of vehicle models: 0
+[14:29:20] [connection] 127.0.0.1:40280 requests connection cookie.
+[14:29:20] [connection] incoming connection: 127.0.0.1:40280 id: 0
+[14:29:20] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:33:47] filterscripts = ""  (string)
+[14:33:47] 
+[14:33:47] Server Plugins
+[14:33:47] --------------
+[14:33:47]  Loading plugin: pawncmd
+[14:33:47] [Pawn.CMD] plugin v3.4.0 loading...
+[14:33:47] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:33:47]   Loaded.
+[14:33:47]  Loading plugin: sscanf
+[14:33:47] 
+
+[14:33:47]  ===============================
+
+[14:33:47]       sscanf plugin loaded.     
+
+[14:33:47]          Version:  2.8.3        
+
+[14:33:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:33:47]  ===============================
+
+[14:33:47]   Loaded.
+[14:33:47]  Loading plugin: cef
+[14:33:47] CEF plugin is successful loaded.
+[14:33:47]   Loaded.
+[14:33:47]  Loading plugin: streamer
+[14:33:47] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:33:47]   Loaded.
+[14:33:47]  Loaded 4 plugins.
+
+[14:33:47] 
+[14:33:47] Filterscripts
+[14:33:47] ---------------
+[14:33:47]   Loaded 0 filterscripts.
+
+[14:33:47] [Load System]: LoadBottles �������� 109 �������.
+[14:33:47] Number of vehicle models: 0
+[14:34:22] [connection] 127.0.0.1:39221 requests connection cookie.
+[14:34:22] [connection] incoming connection: 127.0.0.1:39221 id: 0
+[14:34:22] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:37:57] filterscripts = ""  (string)
+[14:37:57] 
+[14:37:57] Server Plugins
+[14:37:57] --------------
+[14:37:57]  Loading plugin: pawncmd
+[14:37:57] [Pawn.CMD] plugin v3.4.0 loading...
+[14:37:57] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:37:57]   Loaded.
+[14:37:57]  Loading plugin: sscanf
+[14:37:57] 
+
+[14:37:57]  ===============================
+
+[14:37:57]       sscanf plugin loaded.     
+
+[14:37:57]          Version:  2.8.3        
+
+[14:37:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:37:57]  ===============================
+
+[14:37:57]   Loaded.
+[14:37:57]  Loading plugin: cef
+[14:37:57] CEF plugin is successful loaded.
+[14:37:57]   Loaded.
+[14:37:57]  Loading plugin: streamer
+[14:37:57] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:37:57]   Loaded.
+[14:37:57]  Loaded 4 plugins.
+
+[14:37:57] 
+[14:37:57] Filterscripts
+[14:37:57] ---------------
+[14:37:57]   Loaded 0 filterscripts.
+
+[14:37:57] [Load System]: LoadBottles �������� 109 �������.
+[14:37:57] Number of vehicle models: 0
+[14:38:00] [connection] 127.0.0.1:40845 requests connection cookie.
+[14:38:00] [connection] incoming connection: 127.0.0.1:40845 id: 0
+[14:38:00] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[14:41:44] [part] Survers_Delevoper has left the server (0:1)
+[14:41:45] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:41:48] filterscripts = ""  (string)
+[14:41:48] 
+[14:41:48] Server Plugins
+[14:41:48] --------------
+[14:41:48]  Loading plugin: pawncmd
+[14:41:48] [Pawn.CMD] plugin v3.4.0 loading...
+[14:41:48] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:41:48]   Loaded.
+[14:41:48]  Loading plugin: sscanf
+[14:41:48] 
+
+[14:41:48]  ===============================
+
+[14:41:48]       sscanf plugin loaded.     
+
+[14:41:48]          Version:  2.8.3        
+
+[14:41:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:41:48]  ===============================
+
+[14:41:48]   Loaded.
+[14:41:48]  Loading plugin: cef
+[14:41:48] CEF plugin is successful loaded.
+[14:41:48]   Loaded.
+[14:41:48]  Loading plugin: streamer
+[14:41:48] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:41:48]   Loaded.
+[14:41:48]  Loaded 4 plugins.
+
+[14:41:48] 
+[14:41:48] Filterscripts
+[14:41:48] ---------------
+[14:41:48]   Loaded 0 filterscripts.
+
+[14:41:48] [Load System]: LoadBottles �������� 109 �������.
+[14:41:48] Number of vehicle models: 0
+[14:42:07] [connection] 127.0.0.1:38416 requests connection cookie.
+[14:42:07] [connection] incoming connection: 127.0.0.1:38416 id: 0
+[14:42:07] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[14:43:11] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:13] filterscripts = ""  (string)
+[14:43:13] 
+[14:43:13] Server Plugins
+[14:43:13] --------------
+[14:43:13]  Loading plugin: pawncmd
+[14:43:13] [Pawn.CMD] plugin v3.4.0 loading...
+[14:43:13] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:43:13]   Loaded.
+[14:43:13]  Loading plugin: sscanf
+[14:43:13] 
+
+[14:43:13]  ===============================
+
+[14:43:13]       sscanf plugin loaded.     
+
+[14:43:13]          Version:  2.8.3        
+
+[14:43:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:43:13]  ===============================
+
+[14:43:13]   Loaded.
+[14:43:13]  Loading plugin: cef
+[14:43:13] CEF plugin is successful loaded.
+[14:43:13]   Loaded.
+[14:43:13]  Loading plugin: streamer
+[14:43:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:43:13]   Loaded.
+[14:43:13]  Loaded 4 plugins.
+
+[14:43:13] 
+[14:43:13] Filterscripts
+[14:43:13] ---------------
+[14:43:13]   Loaded 0 filterscripts.
+
+[14:43:13] [Load System]: LoadBottles �������� 109 �������.
+[14:43:13] Number of vehicle models: 0
+[14:43:28] [connection] 127.0.0.1:41734 requests connection cookie.
+[14:43:29] [connection] incoming connection: 127.0.0.1:41734 id: 0
+[14:43:29] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:29] filterscripts = ""  (string)
+[14:44:29] 
+[14:44:29] Server Plugins
+[14:44:29] --------------
+[14:44:29]  Loading plugin: pawncmd
+[14:44:29] [Pawn.CMD] plugin v3.4.0 loading...
+[14:44:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:44:29]   Loaded.
+[14:44:29]  Loading plugin: sscanf
+[14:44:29] 
+
+[14:44:29]  ===============================
+
+[14:44:29]       sscanf plugin loaded.     
+
+[14:44:29]          Version:  2.8.3        
+
+[14:44:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:44:29]  ===============================
+
+[14:44:29]   Loaded.
+[14:44:29]  Loading plugin: cef
+[14:44:29] CEF plugin is successful loaded.
+[14:44:29]   Loaded.
+[14:44:29]  Loading plugin: streamer
+[14:44:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:44:29]   Loaded.
+[14:44:29]  Loaded 4 plugins.
+
+[14:44:30] 
+[14:44:30] Filterscripts
+[14:44:30] ---------------
+[14:44:30]   Loaded 0 filterscripts.
+
+[14:44:30] [Load System]: LoadBottles �������� 109 �������.
+[14:44:30] Number of vehicle models: 0
+[14:44:33] [connection] 127.0.0.1:40373 requests connection cookie.
+[14:44:33] [connection] incoming connection: 127.0.0.1:40373 id: 0
+[14:44:33] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[15:02:56] [part] Survers_Delevoper has left the server (0:1)
+[15:02:56] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[15:02:58] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:03:19] filterscripts = ""  (string)
+[15:03:19] 
+[15:03:19] Server Plugins
+[15:03:19] --------------
+[15:03:19]  Loading plugin: pawncmd
+[15:03:19] [Pawn.CMD] plugin v3.4.0 loading...
+[15:03:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:03:19]   Loaded.
+[15:03:19]  Loading plugin: sscanf
+[15:03:19] 
+
+[15:03:19]  ===============================
+
+[15:03:19]       sscanf plugin loaded.     
+
+[15:03:19]          Version:  2.8.3        
+
+[15:03:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:03:19]  ===============================
+
+[15:03:19]   Loaded.
+[15:03:19]  Loading plugin: cef
+[15:03:19] CEF plugin is successful loaded.
+[15:03:19]   Loaded.
+[15:03:19]  Loading plugin: streamer
+[15:03:19] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:03:19]   Loaded.
+[15:03:19]  Loaded 4 plugins.
+
+[15:03:19] 
+[15:03:19] Filterscripts
+[15:03:19] ---------------
+[15:03:19]   Loaded 0 filterscripts.
+
+[15:03:19] [Load System]: LoadBottles �������� 109 �������.
+[15:03:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:03:21] filterscripts = ""  (string)
+[15:03:21] 
+[15:03:21] Server Plugins
+[15:03:21] --------------
+[15:03:21]  Loading plugin: pawncmd
+[15:03:21] [Pawn.CMD] plugin v3.4.0 loading...
+[15:03:21] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:03:21]   Loaded.
+[15:03:21]  Loading plugin: sscanf
+[15:03:21] 
+
+[15:03:21]  ===============================
+
+[15:03:21]       sscanf plugin loaded.     
+
+[15:03:21]          Version:  2.8.3        
+
+[15:03:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:03:21]  ===============================
+
+[15:03:21]   Loaded.
+[15:03:21]  Loading plugin: cef
+[15:03:21] CEF plugin is successful loaded.
+[15:03:21]   Loaded.
+[15:03:21]  Loading plugin: streamer
+[15:03:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:03:21]   Loaded.
+[15:03:21]  Loaded 4 plugins.
+
+[15:03:21] 
+[15:03:21] Filterscripts
+[15:03:21] ---------------
+[15:03:21]   Loaded 0 filterscripts.
+
+[15:03:21] [Load System]: LoadBottles �������� 109 �������.
+[15:03:21] Number of vehicle models: 0
+[15:03:36] [connection] 127.0.0.1:39829 requests connection cookie.
+[15:03:36] [connection] incoming connection: 127.0.0.1:39829 id: 0
+[15:03:37] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:53] filterscripts = ""  (string)
+[15:07:53] 
+[15:07:53] Server Plugins
+[15:07:53] --------------
+[15:07:53]  Loading plugin: pawncmd
+[15:07:53] [Pawn.CMD] plugin v3.4.0 loading...
+[15:07:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:07:53]   Loaded.
+[15:07:53]  Loading plugin: sscanf
+[15:07:53] 
+
+[15:07:53]  ===============================
+
+[15:07:53]       sscanf plugin loaded.     
+
+[15:07:53]          Version:  2.8.3        
+
+[15:07:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:07:53]  ===============================
+
+[15:07:53]   Loaded.
+[15:07:53]  Loading plugin: cef
+[15:07:53] CEF plugin is successful loaded.
+[15:07:53]   Loaded.
+[15:07:53]  Loading plugin: streamer
+[15:07:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:07:53]   Loaded.
+[15:07:53]  Loaded 4 plugins.
+
+[15:07:53] 
+[15:07:53] Filterscripts
+[15:07:53] ---------------
+[15:07:53]   Loaded 0 filterscripts.
+
+[15:07:53] [Load System]: LoadBottles �������� 109 �������.
+[15:07:53] Number of vehicle models: 0
+[15:07:56] [connection] 127.0.0.1:41649 requests connection cookie.
+[15:07:56] [connection] incoming connection: 127.0.0.1:41649 id: 0
+[15:07:56] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+[15:08:39] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[15:08:41] Encountered an error receiving data: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }
+[15:08:55] [part] Survers_Delevoper has left the server (0:0)
+[15:09:25] [connection] 127.0.0.1:39079 requests connection cookie.
+[15:09:25] [connection] incoming connection: 127.0.0.1:39079 id: 0
+[15:09:25] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:29] filterscripts = ""  (string)
+[15:25:29] 
+[15:25:29] Server Plugins
+[15:25:29] --------------
+[15:25:29]  Loading plugin: pawncmd
+[15:25:29] [Pawn.CMD] plugin v3.4.0 loading...
+[15:25:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:25:29]   Loaded.
+[15:25:29]  Loading plugin: sscanf
+[15:25:29] 
+
+[15:25:29]  ===============================
+
+[15:25:29]       sscanf plugin loaded.     
+
+[15:25:29]          Version:  2.8.3        
+
+[15:25:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:25:29]  ===============================
+
+[15:25:29]   Loaded.
+[15:25:29]  Loading plugin: cef
+[15:25:29] CEF plugin is successful loaded.
+[15:25:29]   Loaded.
+[15:25:29]  Loading plugin: streamer
+[15:25:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:25:29]   Loaded.
+[15:25:29]  Loaded 4 plugins.
+
+[15:25:29] 
+[15:25:29] Filterscripts
+[15:25:29] ---------------
+[15:25:29]   Loaded 0 filterscripts.
+
+[15:25:29] [Load System]: LoadBottles �������� 109 �������.
+[15:25:29] Number of vehicle models: 0
+[15:25:34] [connection] 127.0.0.1:38261 requests connection cookie.
+[15:25:34] [connection] incoming connection: 127.0.0.1:38261 id: 0
+[15:25:34] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:26:10] filterscripts = ""  (string)
+[15:26:10] 
+[15:26:10] Server Plugins
+[15:26:10] --------------
+[15:26:10]  Loading plugin: pawncmd
+[15:26:10] [Pawn.CMD] plugin v3.4.0 loading...
+[15:26:10] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:26:10]   Loaded.
+[15:26:10]  Loading plugin: sscanf
+[15:26:10] 
+
+[15:26:10]  ===============================
+
+[15:26:10]       sscanf plugin loaded.     
+
+[15:26:10]          Version:  2.8.3        
+
+[15:26:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:26:10]  ===============================
+
+[15:26:10]   Loaded.
+[15:26:10]  Loading plugin: cef
+[15:26:10] CEF plugin is successful loaded.
+[15:26:10]   Loaded.
+[15:26:10]  Loading plugin: streamer
+[15:26:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:26:10]   Loaded.
+[15:26:10]  Loaded 4 plugins.
+
+[15:26:10] 
+[15:26:10] Filterscripts
+[15:26:10] ---------------
+[15:26:10]   Loaded 0 filterscripts.
+
+[15:26:10] [Load System]: LoadBottles �������� 109 �������.
+[15:26:10] Number of vehicle models: 0
+[15:26:13] [connection] 127.0.0.1:40308 requests connection cookie.
+[15:26:13] [connection] incoming connection: 127.0.0.1:40308 id: 0
+[15:26:13] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:17] filterscripts = ""  (string)
+[15:52:17] 
+[15:52:17] Server Plugins
+[15:52:17] --------------
+[15:52:17]  Loading plugin: pawncmd
+[15:52:17] [Pawn.CMD] plugin v3.4.0 loading...
+[15:52:17] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:52:17]   Loaded.
+[15:52:17]  Loading plugin: sscanf
+[15:52:17] 
+
+[15:52:17]  ===============================
+
+[15:52:17]       sscanf plugin loaded.     
+
+[15:52:17]          Version:  2.8.3        
+
+[15:52:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:17]  ===============================
+
+[15:52:17]   Loaded.
+[15:52:17]  Loading plugin: cef
+[15:52:17] CEF plugin is successful loaded.
+[15:52:17]   Loaded.
+[15:52:17]  Loading plugin: streamer
+[15:52:17] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:52:17]   Loaded.
+[15:52:17]  Loaded 4 plugins.
+
+[15:52:17] 
+[15:52:17] Filterscripts
+[15:52:17] ---------------
+[15:52:17]   Loaded 0 filterscripts.
+
+[15:52:17] [Load System]: LoadBottles �������� 109 �������.
+[15:52:17] Number of vehicle models: 0
+[15:52:20] [connection] 127.0.0.1:41501 requests connection cookie.
+[15:52:20] [connection] incoming connection: 127.0.0.1:41501 id: 0
+[15:52:20] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:12] filterscripts = ""  (string)
+[15:53:12] 
+[15:53:12] Server Plugins
+[15:53:12] --------------
+[15:53:12]  Loading plugin: pawncmd
+[15:53:12] [Pawn.CMD] plugin v3.4.0 loading...
+[15:53:12] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: sscanf
+[15:53:12] 
+
+[15:53:12]  ===============================
+
+[15:53:12]       sscanf plugin loaded.     
+
+[15:53:12]          Version:  2.8.3        
+
+[15:53:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:53:12]  ===============================
+
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: cef
+[15:53:12] CEF plugin is successful loaded.
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: streamer
+[15:53:12] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:53:12]   Loaded.
+[15:53:12]  Loaded 4 plugins.
+
+[15:53:12] 
+[15:53:12] Filterscripts
+[15:53:12] ---------------
+[15:53:12]   Loaded 0 filterscripts.
+
+[15:53:12] [Load System]: LoadBottles �������� 109 �������.
+[15:53:12] Number of vehicle models: 0
+[15:53:15] [connection] 127.0.0.1:38811 requests connection cookie.
+[15:53:15] [connection] incoming connection: 127.0.0.1:38811 id: 0
+[15:53:15] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:29] filterscripts = ""  (string)
+[15:59:29] 
+[15:59:29] Server Plugins
+[15:59:29] --------------
+[15:59:29]  Loading plugin: pawncmd
+[15:59:29] [Pawn.CMD] plugin v3.4.0 loading...
+[15:59:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:59:29]   Loaded.
+[15:59:29]  Loading plugin: sscanf
+[15:59:29] 
+
+[15:59:29]  ===============================
+
+[15:59:29]       sscanf plugin loaded.     
+
+[15:59:29]          Version:  2.8.3        
+
+[15:59:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:59:29]  ===============================
+
+[15:59:29]   Loaded.
+[15:59:29]  Loading plugin: cef
+[15:59:29] CEF plugin is successful loaded.
+[15:59:29]   Loaded.
+[15:59:29]  Loading plugin: streamer
+[15:59:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:59:29]   Loaded.
+[15:59:29]  Loaded 4 plugins.
+
+[15:59:29] 
+[15:59:29] Filterscripts
+[15:59:29] ---------------
+[15:59:29]   Loaded 0 filterscripts.
+
+[15:59:29] [Load System]: LoadBottles �������� 109 �������.
+[15:59:29] Number of vehicle models: 0
+[15:59:31] [connection] 127.0.0.1:38693 requests connection cookie.
+[15:59:32] [connection] incoming connection: 127.0.0.1:38693 id: 0
+[15:59:32] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:49] filterscripts = ""  (string)
+[16:02:49] 
+[16:02:49] Server Plugins
+[16:02:49] --------------
+[16:02:49]  Loading plugin: pawncmd
+[16:02:49] [Pawn.CMD] plugin v3.4.0 loading...
+[16:02:49] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[16:02:49]   Loaded.
+[16:02:49]  Loading plugin: sscanf
+[16:02:49] 
+
+[16:02:49]  ===============================
+
+[16:02:49]       sscanf plugin loaded.     
+
+[16:02:49]          Version:  2.8.3        
+
+[16:02:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:02:49]  ===============================
+
+[16:02:49]   Loaded.
+[16:02:49]  Loading plugin: cef
+[16:02:49] CEF plugin is successful loaded.
+[16:02:49]   Loaded.
+[16:02:49]  Loading plugin: streamer
+[16:02:49] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[16:02:49]   Loaded.
+[16:02:49]  Loaded 4 plugins.
+
+[16:02:49] 
+[16:02:49] Filterscripts
+[16:02:49] ---------------
+[16:02:49]   Loaded 0 filterscripts.
+
+[16:02:49] [Load System]: LoadBottles �������� 109 �������.
+[16:02:49] Number of vehicle models: 0
+[16:02:52] [connection] 127.0.0.1:41962 requests connection cookie.
+[16:02:52] [connection] incoming connection: 127.0.0.1:41962 id: 0
+[16:02:53] [join] Survers_Delevoper has joined the server (0:127.0.0.1)
